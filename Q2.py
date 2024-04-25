@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class Rectangle:
     length = 0
     width = 0
